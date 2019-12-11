@@ -1,0 +1,16 @@
+section p {
+	font-size: 2em;
+	font-family: "Calling Code";
+}
+section p::after {
+	color: #F37021;
+	font-weight: bold;
+	vertical-align: middle;
+	content: " >";
+}
+section p::before {
+	color: #F37021;
+	font-weight: bold;
+	vertical-align: middle;
+	content: "< ";
+}
