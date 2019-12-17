@@ -1,14 +1,17 @@
-section p {
-	font-size: 2em;
-	font-family: "Calling Code";
+section {
+	/* font-family: "Calling Code" !important; */
 }
-section p::after {
+h1 {
+	font-size: 2em !important;
+	font-family: "Calling Code" !important;
+}
+section h1::after {
 	color: #F37021;
 	font-weight: bold;
 	vertical-align: middle;
 	content: " >";
 }
-section p::before {
+section h1::before {
 	color: #F37021;
 	font-weight: bold;
 	vertical-align: middle;

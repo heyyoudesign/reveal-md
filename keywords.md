@@ -4,29 +4,42 @@ theme: night
 revealOptions:
     transition: 'zoom'
 ---
+# the human side
+RichClicks è proprio così
 
-the human side
+# campaign
+perché non usare qualcos'altro?
 
+# go live
 ---
-
-contributo
-
+# customer
 ---
-
-connessione
-
+# creativity
 ---
-
-serenità
-
+# unique
 ---
-
-casa
-
+# vision
 ---
-
-sensibilità
-
+# building
 ---
-
-ghinism
+# team work
+---
+# client
+---
+# structure
+---
+# availability
+---
+# design
+---
+# colleague
+---
+# cooperation
+---
+# knowledge 
+---
+# support
+---
+# digital marketing
+---
+# digital
